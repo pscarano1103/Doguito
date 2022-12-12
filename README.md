@@ -24,3 +24,19 @@ Nessa aula aprendi:
 - Utilizar data attributes para trabalhar com JavaScript
 
 - Deixar a função de validação mais genérica para funcionar com qualquer input
+
+
+## Aula 3 - Mensagens customizadas
+
+
+
+Nesta aula, aprendi:
+
+- A instalar e usar o plugin Liveserver
+
+- Como baixar e rodar o browser-sync
+
+- Como mostrar a mensagem de erro diretamente no HTML
+
+- Como customizar as mensagens de erro de validação
+
