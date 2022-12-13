@@ -40,6 +40,10 @@ const mensagensDeErro = {
     cpf: {
       valueMissing: 'O campo de CPF não pode estar vazio.',
       customError: 'O CPF digitado não é válido.'
+    },
+    cep: {
+        valueMissing: 'O campo de CEP não pode estar vazio.',
+        patternMismatch: 'O CEP digitado não é válido.'
     }
 
 
@@ -61,6 +65,7 @@ function mostraMensagemDeErro(tipoDeInput, input) {
     return mensagem
 }
 
+//validando data de Nascimento
 function validaDataNascimento(input) {
     const dataRecebida = new Date(input.value)
     let mensagem = ''
@@ -79,7 +84,7 @@ function maiorQue18(data) {
     return dataMais18 <= dataAtual
 }
 
-
+//Validando o CPF
 function validaCPF(input) {
   const cpfFormatado = input.value.replace(/\D/g, '')
   let mensagem =''
