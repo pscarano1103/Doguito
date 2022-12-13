@@ -62,4 +62,12 @@ Nesta aula, aprendi:
 - Preencher outros campos do formulário com a resposta da API da ViaCEP
 
 
+## Aula 6 - aplicação de máscara
+
+Nesta aula, aprendi:
+
+- Como adicionar máscara monetária para o campo de preço.
+
+
+
 
