@@ -40,3 +40,15 @@ Nesta aula, aprendi:
 
 - Como customizar as mensagens de erro de validação
 
+## Aula 4 - Validando CPF
+
+
+
+Nesta aula, aprendi:
+
+- A validar cpf com números repetidos
+
+- A matemática por trás da validação de um CPF
+
+- Recursão de função
+
