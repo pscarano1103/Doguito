@@ -2,6 +2,7 @@
 
 Projeto criado durante a formação Front-End da Alura.
 
+
 ## Aula 1 - Validação com HTML:
 
 Nessa aula aprendi:
@@ -28,8 +29,6 @@ Nessa aula aprendi:
 
 ## Aula 3 - Mensagens customizadas
 
-
-
 Nesta aula, aprendi:
 
 - A instalar e usar o plugin Liveserver
@@ -40,9 +39,8 @@ Nesta aula, aprendi:
 
 - Como customizar as mensagens de erro de validação
 
+
 ## Aula 4 - Validando CPF
-
-
 
 Nesta aula, aprendi:
 
@@ -51,4 +49,17 @@ Nesta aula, aprendi:
 - A matemática por trás da validação de um CPF
 
 - Recursão de função
+
+
+## Aula 5 - Conectando com a API viaCEP
+
+Nesta aula, aprendi:
+
+- Outra estrutura de regex para a pré validação do CEP
+    
+- Como fazer uma requisição para a API da ViaCEP
+    
+- Preencher outros campos do formulário com a resposta da API da ViaCEP
+
+
 
